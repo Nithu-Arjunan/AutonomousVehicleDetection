@@ -103,6 +103,20 @@ o	Mean Average Precision (MAP)
 •	After testing the predicted images will be saved in the runs/detect/exp folder
 
 
+📚 The second part of the project involves analysing the usage of autopilot and its impact on road safety.
+The following observations were obtained after performing exploratory data analysin on the data
+
+The number of events occured by date, year, day, country and state.
+
+The distribution and proportion of events.
+
+The frequency of Tesla colliding with other vehicles.
+
+The event distribution across models.
+
+The distribution of verified Tesla autopilot deaths.
+
+
 
 
 
