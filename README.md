@@ -8,7 +8,7 @@ This project focuses on detecting and classifying objects in images for autonomo
 
 •	Programming Language: Python
 
-•	Deep Learning Framework: TensorFlow
+•	Deep Learning Framework: Pytorch
 
 •	Object Detection Model: YOLOv5
 
